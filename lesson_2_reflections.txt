@@ -12,3 +12,8 @@ git diff commit1 commit2 compare 2 commit in repository area
 git diff --staged compare staging area with commit1 in repository (the most recent)
 
 
+How can you use the staging area to make sure you have one commit per logical change?
+i'm sure to use staging area per logical change because i dont commit before tha change is done
+
+
+
