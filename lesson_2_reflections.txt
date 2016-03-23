@@ -3,4 +3,8 @@ What happens when you initialize a repository? Why do you need to do it?
 git create a hidden folder with some file. when the programmer launch git status can see that is the initial commit and the file in the same folder. this file aren't add to repository of commint and warning that yoy must add it for see the difference with git
 
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+staging area is an area that can collocate a file that programmer want change. in this area say to git record the diff between version of the file that has choose. this area are different between working area becausa don't do change the content of file but only the status.
+repository is different because contain all the canghe that are made and can't canghe a status of file.
 
