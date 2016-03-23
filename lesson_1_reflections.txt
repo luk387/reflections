@@ -34,5 +34,3 @@ git checkout idcommit to return a previous version
 Now that you have your workspace set up, what do you want to try using Git for?
 
 i'll use git for write my script for work and home (for example smart home or create new reception or certificate script).
-
-
