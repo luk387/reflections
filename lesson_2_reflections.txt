@@ -18,4 +18,8 @@ i'm sure to use staging area per logical change because i dont commit before tha
 How do the diagrams help you visualize the branch structure?
 i can see all the version of a project and i can create backup branches and new features banche without brake a master branche.
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+the people can work in more features in same moment and than merge in master branch. 
+because the diagram explain in a simple way that we have do.
+git log --graph --oneline to see all log in a short view. a commit take only a line.
 
