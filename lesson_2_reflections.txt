@@ -23,3 +23,8 @@ the people can work in more features in same moment and than merge in master bra
 because the diagram explain in a simple way that we have do.
 git log --graph --oneline to see all log in a short view. a commit take only a line.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+i pro sono che hai la possibilità di svolgere tutto automaticamente dove possibile (cioè quando non sono state modificate le stesse righe di un file da 2 persone diverse); fase sempre il merge automaticamente vuol dire invece aver più controllo della situazione scegliendo man mano i conflitti generatosi
+
+ 
+
