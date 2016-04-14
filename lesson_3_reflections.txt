@@ -3,3 +3,6 @@ git remote --> vedere le repository remote
 git remote add origin git@github.com:luk387/filefarlocchi.git 
 git push -u origin master
 gli ultimi 2 comandi servono per caricare nel repository remoto
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+perchè potrebbero esserci dei conflitti. ed è necessario correggerli man mano
