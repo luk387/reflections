@@ -6,3 +6,8 @@ gli ultimi 2 comandi servono per caricare nel repository remoto
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 perchè potrebbero esserci dei conflitti. ed è necessario correggerli man mano
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+forks: da la possibilità di creare una copia di un repository in github includendo il link alla versione originale del relativo sviluppatore. è utile utilizzarla per partire a creare una nuova versione di un progetto creato da un altro sviluppatore.
+clones: crea una copia di un repository non includendo da dove è stato preso il progetto iniziale. può essere utilizzata per copiare i propri progetti da una macchina ad un'altra o continuare un progetto di un'altra persona.
+branches: crea una ramificazione di uno stesso progetto. è utile utilizzarlo per creare punti di backup, versioni in fase beta di nuove funzionalità.
