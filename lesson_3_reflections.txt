@@ -11,3 +11,6 @@ Describe the differences between forks, clones, and branches. When would you use
 forks: da la possibilità di creare una copia di un repository in github includendo il link alla versione originale del relativo sviluppatore. è utile utilizzarla per partire a creare una nuova versione di un progetto creato da un altro sviluppatore.
 clones: crea una copia di un repository non includendo da dove è stato preso il progetto iniziale. può essere utilizzata per copiare i propri progetti da una macchina ad un'altra o continuare un progetto di un'altra persona.
 branches: crea una ramificazione di uno stesso progetto. è utile utilizzarlo per creare punti di backup, versioni in fase beta di nuove funzionalità.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+che si è sincronizzati con gli altri sviluppatori del progetto e non si devono fare merge di molti commit
