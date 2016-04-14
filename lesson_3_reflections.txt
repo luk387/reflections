@@ -1,0 +1,5 @@
+aggiungere una chiave all'account git hub https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/
+git remote --> vedere le repository remote
+git remote add origin git@github.com:luk387/filefarlocchi.git 
+git push -u origin master
+gli ultimi 2 comandi servono per caricare nel repository remoto
